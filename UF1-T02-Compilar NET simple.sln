@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UF1-T02-Compilar NET simple", "UF1-T02-Compilar NET simple\UF1-T02-Compilar NET simple.csproj", "{841F24F5-F091-479A-BF2C-70999652EBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841F24F5-F091-479A-BF2C-70999652EBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841F24F5-F091-479A-BF2C-70999652EBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841F24F5-F091-479A-BF2C-70999652EBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841F24F5-F091-479A-BF2C-70999652EBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BE276C-6AC1-4EE5-813E-7B029ED8B583}
+	EndGlobalSection
+EndGlobal
